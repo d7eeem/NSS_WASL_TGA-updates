@@ -1,0 +1,27 @@
+{
+  "version": "0.65.0",
+  "notes": "",
+  "pub_date": "2026-08-12T15:27:51.838Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUpva1h4bTVjTW1PTDVXaTJWNGdwbmhKVmkyZk82QjVvdGVpSWxFTzhmdVVEaGJ2elpDeWJZWm4zUlJrUEYvWjVFeWRMbm1QWUVJeWR3eVNob1p5M016b3Z0QzhyQ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ4MTE1CWZpbGU6V0FTTCBJbnRlZ3JhdGlvbiBNYW5hZ2VyLmFwcC50YXIuZ3oKUEQwYm9WQW1Kd3lyVDJSajRiNTdxek1IbGpBbFdJRzNuWHRJckZJeVVqeUNIQkUvS202YzE0UXRTV3NhQkNlM3JvVldlcnk1Yng2YTFFVmxzeG1KQ2c9PQo=",
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.65.0/WASL.Integration.Manager_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUpva1h4bTVjTW1PTDVXaTJWNGdwbmhKVmkyZk82QjVvdGVpSWxFTzhmdVVEaGJ2elpDeWJZWm4zUlJrUEYvWjVFeWRMbm1QWUVJeWR3eVNob1p5M016b3Z0QzhyQ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ4MTE1CWZpbGU6V0FTTCBJbnRlZ3JhdGlvbiBNYW5hZ2VyLmFwcC50YXIuZ3oKUEQwYm9WQW1Kd3lyVDJSajRiNTdxek1IbGpBbFdJRzNuWHRJckZJeVVqeUNIQkUvS202YzE0UXRTV3NhQkNlM3JvVldlcnk1Yng2YTFFVmxzeG1KQ2c9PQo=",
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.65.0/WASL.Integration.Manager_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUpva1h4bTVjTWpZRGJweXpaSE5PWEFjcnFQRlFiY0xaWDNoeld6SHdLbmxoUjJ1Qnd4WkFHcHhNOFFEaVVuOEluZTZYaEdjaW1BQ2F6L3hQYi9zVnRuRm9YM1NqN2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ4NDY2CWZpbGU6V0FTTCBJbnRlZ3JhdGlvbiBNYW5hZ2VyXzAuNjUuMF94NjRfZW4tVVMubXNpClowVDA0M05CVWJDUm5BSjgrdUZaNkZCTlpzaTU4dnh0WjlaMnNpNUR6WEp6YlZ5MXptSFV6ZHdsSnRkWTFGWi9JYVlMZ3FnbE9WZUhoZHVUcUVmQUNBPT0K",
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.65.0/WASL.Integration.Manager_0.65.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUpva1h4bTVjTWpZRGJweXpaSE5PWEFjcnFQRlFiY0xaWDNoeld6SHdLbmxoUjJ1Qnd4WkFHcHhNOFFEaVVuOEluZTZYaEdjaW1BQ2F6L3hQYi9zVnRuRm9YM1NqN2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ4NDY2CWZpbGU6V0FTTCBJbnRlZ3JhdGlvbiBNYW5hZ2VyXzAuNjUuMF94NjRfZW4tVVMubXNpClowVDA0M05CVWJDUm5BSjgrdUZaNkZCTlpzaTU4dnh0WjlaMnNpNUR6WEp6YlZ5MXptSFV6ZHdsSnRkWTFGWi9JYVlMZ3FnbE9WZUhoZHVUcUVmQUNBPT0K",
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.65.0/WASL.Integration.Manager_0.65.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUpva1h4bTVjTWd2Ym5YQVlFMzgxN2treUtScVVoTEpGV0J1ZkpPd2JMY0Q4ZHdyWmVkWFNIaEdtR2FnNExlcHNsQ2NHYjhySWRyVmNjNUNqTEJpYmRHb0g1MnNmSUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ4NDY2CWZpbGU6V0FTTCBJbnRlZ3JhdGlvbiBNYW5hZ2VyXzAuNjUuMF94NjQtc2V0dXAuZXhlCmRDSHExYlR2U1RvUi9KdWxrNWJmTGVSdmFFQW9QQUZIT01yKzVYcUtSTGcxZSt2Qmg3WWc1bzZtS3hYNStGb0p6OFpXcSs4bk9rQTdaSjRZanEwcUNnPT0K",
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.65.0/WASL.Integration.Manager_0.65.0_x64-setup.exe"
+    }
+  }
+}
