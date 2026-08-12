@@ -1,0 +1,31 @@
+{
+  "version": "0.63.0",
+  "pubDate": "2026-08-12T12:56:14Z",
+  "platforms": {
+    "linux-aarch64": {
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.63.0/wasl-linux-arm64",
+      "sha256": "9dc889df97a16a49877e9f3ef7fd25de041871c7c8af74c4f6e60ae197b0b945",
+      "signature": "dlbqPpwYWXxEUnFHOtB6qXUQ6jatdt83LtBH3JlN2cKjk9qCTElmc7med3vDKXOGXJcHr55bKz1PVYNdQanZBQ=="
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.63.0/wasl-linux-x64",
+      "sha256": "1dbbbc137994067cc4c8fb222b9933afeeb936b611a4f84a1ce5a3d3bded69a8",
+      "signature": "wkWHodGX8VSTopz3aYAE/XxrLqHcC6SfgdMHK+gqt3EE2korVB5ct/QM6uEd/njv8ZLp7/ODNa1MoG+sQ/wgBA=="
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.63.0/wasl-macos-arm64",
+      "sha256": "b8f3df041105327e0aec6a1a5ace58361a52c58b71686fcd956def0804b970ec",
+      "signature": "um+uORLG70Ooa+lMmKw215pNiVOAHMJLMzS6ZPNPGCn6e/0l82LFH8WbcNc9YgG9uQ/5Jrs1RCO1T+RcNgB1BQ=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.63.0/wasl-windows-x64.exe",
+      "sha256": "326d34b817368e4052cb564e2fc46e53c73e059f704454cd39fc17d6188e8afd",
+      "signature": "wTedvIFscEUaMbCaz3YPUEB1qaXQzZaKq1Bx3MYJnWGrEIPjs6S0yoAM4Z71ATlb7UcEnY8hnKAyerkGvLxqCA=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/d7eeem/NSS_WASL_TGA-updates/releases/download/v0.63.0/wasl-macos-x64",
+      "sha256": "0d26cf27679916705e5c22e1d71de071e95c53211938b6e66839c77100f487cd",
+      "signature": "CL2zLzcRLKho1xCuFySJcKd7f9mI/hIlRnr+NaOmIYuk7dGb6DIaKWK2JnJTUdHT04Q216kC+a3TPdqfKTCFBw=="
+    }
+  }
+}
